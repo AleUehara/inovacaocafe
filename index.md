@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Inovação Café
 
-You can use the [editor on GitHub](https://github.com/AleUehara/inovacaocafe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vamos conectar toda a semana? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A ideia surgiu após um bate papo com o Carlos Alexandre Alves Monteiro. Inclusive um post surgiu desse bate papo ( https://lnkd.in/de65nXE ) e nós acabamos impactando muitas pessoas.
+
+Para 2018, estou criando essa nova iniciativa, onde a ideia é compartilhar, conectar e fazer networking toda semana. 
+
+Quem topa?
 
 ### Markdown
 

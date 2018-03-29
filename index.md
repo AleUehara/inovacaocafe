@@ -1,4 +1,4 @@
-![inovacao_cafe](https://s3.amazonaws.com/inovacaocafe/idea.jpg){:class="img-responsive" height="36px" width="36px"}
+![inovacao_cafe](https://s3.amazonaws.com/inovacaocafe/idea.jpg){:class="img-responsive" height="60px" width="60px"}
 ## Inovação Café
 
 Vamos conectar toda a semana? 
